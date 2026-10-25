@@ -1,0 +1,11 @@
+# build output
+contacts
+contacts.exe
+*.o
+
+# temporary save file and test data
+*.tmp
+
+# editor files
+.vscode/
+.idea/
