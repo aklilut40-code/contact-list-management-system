@@ -1,0 +1,10 @@
+Abel Tesfay|+251911000101|abel.tesfay@example.com
+Bethlehem Haile|+251922000202|beth.haile@example.com
+Dawit Gebre|+251933000303|
+Eden Kidane|+251944000404|eden.kidane@example.com
+Fitsum Berhe|+251911000505|
+Hanna Mulugeta|+251955000606|hanna.m@example.com
+Kidus Alemayehu|+251966000707|
+Meron Tadesse|+251977000808|meron.t@example.com
+Samuel Weldu|+251988000909|samuel.weldu@example.com
+Selam Yohannes|+251911001010|
