@@ -1,3 +1,22 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=CONTACT%20MANAGEMENT%20SYSTEM&fontSize=32&fontColor=FFFFFF&fontAlignY=42&desc=C%2B%2B17%20%7C%20DATA%20STRUCTURES%20%7C%20CONSOLE%20APPLICATION&descSize=13&descAlignY=65&descColor=E0F2FE" width="100%" alt="Mobile Contact List Management System Banner" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++17"/>
+<img src="https://img.shields.io/badge/Data%20Structures-Implementation-2563EB?style=for-the-badge" alt="Data Structures"/>
+<img src="https://img.shields.io/badge/University-Mekelle-0891B2?style=for-the-badge" alt="Mekelle University"/>
+
+<br/><br/>
+
+**ACADEMIC PROJECT · SOFTWARE ENGINEERING**
+
+*Designed to demonstrate practical applications of fundamental data structures.*
+
+</div>
+
+---
 # Mobile Contact List Management System
 
 **Course:** Data Structures Assignment, Mekelle University, School of Computing, Software Engineering Department
@@ -186,3 +205,21 @@ The system covers every required operation (add, delete, update, search by name 
 count) using a sorted linked list as the main structure, and adds a BST index, a stack and
 a queue where each fits its job. Possible improvements are a self-balancing tree, a tail pointer
 to make bulk loading O(n), and a limit on the undo history.
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:1D4ED8,100:0F172A&height=4&section=footer" width="100%" alt=""/>
+
+### BUILT WITH C++17
+
+**Mekelle University · School of Computing**  
+Software Engineering Department
+
+*Data Structures Assignment · Section 2, Group 6*
+
+<br/>
+
+<sub>Mobile Contact List Management System</sub>
+
+</div>
